@@ -1,53 +1,38 @@
-# 👋 Hi, I'm Aviella!
+# Hi there! 👋 I'm Aviella Diedong
+I’m a **beginner in the data field** with a passion for learning and exploring the world of data analysis and visualization. My journey is all about diving into tools and techniques to uncover meaningful insights from data.
 
-Welcome to my GitHub profile! I’m a beginner in the field of **data analysis** with a keen interest in exploring the world of data and uncovering insights that drive decisions. 🚀
+## 💻 Tools and Technologies
 
----
+- **Data Visualization**:  
+  ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)  
+  ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)  
 
-## 🛠️ Skills & Tools
+- **Data Analysis**:  
+  ![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
 
-As I continue to build my skills, here are the tools I am currently using:
+- **Database Management**:  
+  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)  
 
-### 📊 **Data Visualization**
-- ![Excel](https://upload.wikimedia.org/wikipedia/commons/2/23/Excel_Logo_2013.svg) **Excel**: Organizing, cleaning, and analyzing data with formulas, pivot tables, and charts.
-- ![Power BI](https://upload.wikimedia.org/wikipedia/commons/8/87/Power_BI_Logo_2020.png) **Power BI**: Creating interactive dashboards and reports to visualize key metrics and trends.
-- ![Tableau](https://upload.wikimedia.org/wikipedia/commons/c/c9/Tableau_Logo.png) **Tableau**: Building insightful, interactive visualizations to make data easy to interpret and present.
+- **Programming**:  
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 
-### 🗂️ **Data Manipulation & Analysis**
-- ![SQL](https://upload.wikimedia.org/wikipedia/commons/2/29/SQL_logo_2.svg) **SQL**: Querying databases to extract and manipulate large datasets.
-- ![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg) **Python**: Using Python for data analysis, cleaning, and automation tasks. I am learning libraries such as Pandas, Matplotlib, and Seaborn.
+## 🌱 What I'm Working On
+- Building hands-on projects to enhance my skills in Python, SQL, and data visualization tools.  
+- Exploring machine learning and data science concepts.  
+- Developing my portfolio to showcase real-world applications of data analysis.  
 
----
-
-## 🎯 Projects
-
-I’m working on a variety of projects to improve my data analysis skills, including:
-
-- **Data cleaning and transformation**: Using Excel and Python to clean, filter, and analyze datasets.
-- **Visualization projects**: Building interactive dashboards in Power BI and Tableau to tell stories with data.
-- **SQL and database management**: Writing complex queries to extract and analyze data from databases.
-
-Check out my repositories for some of my work in progress! 📂
-
----
+## 🛠️ Skills
+- **Data Cleaning & Transformation**: Proficient in preparing raw datasets for analysis.  
+- **Visualization & Storytelling**: Creating dashboards and visual reports that convey actionable insights.  
+- **SQL Queries**: Writing queries to extract, manipulate, and analyze data from relational databases.  
+- **Python Scripting**: Utilizing libraries like Pandas and Matplotlib for data manipulation and visualization.  
 
 ## 📚 Learning Goals
+- Mastering advanced analytics and predictive modeling techniques.  
+- Getting certified in Power BI and Tableau.  
+- Building end-to-end data pipelines.  
 
-As I continue my data journey, here are some of my learning goals:
-- Deepen my Python knowledge, especially in data science libraries like NumPy and Scikit-learn.
-- Master SQL for complex data manipulation and querying.
-- Create more advanced and interactive visualizations in Tableau and Power BI.
-- Learn machine learning concepts and algorithms.
-
----
-
-## 🤝 Let's Connect!
-
-I’m always open to collaboration and learning opportunities. Feel free to reach out if you want to discuss projects, share knowledge, or just chat about data! 😊
-
-- 📧 Email: [your.email@example.com](mailto:your.email@example.com)
-- 🌐 LinkedIn: [Your LinkedIn Profile](#)
-
----
-
-Thanks for stopping by my GitHub profile! Let’s dive into the world of data together. 📊💻
+## 🤝 Let's Connect
+I'm always open to collaboration, feedback, and learning opportunities!  
+- 💼 [www.linkedin.com/in/aviella-diedong](#)  
+- 🌐 [Portfolio](#)  
