@@ -34,5 +34,5 @@ I’m a **beginner in the data field** with a passion for learning and exploring
 
 ## 🤝 Let's Connect
 I'm always open to collaboration, feedback, and learning opportunities!  
-- 💼 [www.linkedin.com/in/aviella-diedong](#)  
+- 💼 [www.linkedin.com/in/aviella-diedong] 
 - 🌐 [Portfolio](#)  
