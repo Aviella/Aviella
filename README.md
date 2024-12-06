@@ -1,5 +1,5 @@
 # Hi there! 👋 I'm Aviella Diedong
-I’m a **beginner in the data field** with a passion for learning and exploring the world of data analysis and visualization. My journey is all about diving into tools and techniques to uncover meaningful insights from data.
+I’m a **beginner in the data field** with a passion for learning and exploring the world of data analysis, business analysis and visualization. My journey is all about diving into tools and techniques to uncover meaningful insights from data.
 
 ## 💻 Tools and Technologies
 
